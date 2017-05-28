@@ -6,3 +6,9 @@ Running this script should be easy. Simply Download all files, cd in the directo
 ```
 php 2FA.php
 ```
+
+## Example
+Coming soon..
+
+
+##Requirements
