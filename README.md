@@ -8,7 +8,14 @@ php 2FA.php
 ```
 
 ## Example
-Coming soon..
-
+```
+MBP-2:~ User$ **php 2FA.php**
+Apple ID: **User1@gmail.com**
+Password: **Password123**
+Sending 2FA Request...
+2FA Code: **445887**
+6435619887:AQAAAABXKyTtYo3cKch4OAN2vVUf9iZ2C0qRPJZ=
+```
 
 ## Requirements
+* PHP 5 or above
